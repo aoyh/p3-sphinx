@@ -1,10 +1,7 @@
-.. p3 documentation master file, created by
-   sphinx-quickstart on Sat Dec  2 21:48:13 2017.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
-Welcome to p3's documentation!
+p3
 ==============================
+Team: hw3-p2-ou-yu-li-1
+Members: Aaron Ou, Julien Yu, Brian Lin
 
 .. toctree::
    :maxdepth: 2
